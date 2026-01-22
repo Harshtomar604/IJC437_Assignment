@@ -83,10 +83,11 @@ tempo
 
 The script generates several plots using 'ggplot2', enabling intuitive understanding of distributions and relationships.
 
-# Results Summary (High-Level)
+# Results Summary 
 
-Strong correlation observed between energy and loudness
-Regression models show energy as a significant predictor
+Strong correlation observed between energy and loudness,
+Regression models show energy as a significant predictor,
+
 Logistic classification yields reasonable performance with calculated accuracy, precision, recall, and F1
 
 # How to Run the Code
