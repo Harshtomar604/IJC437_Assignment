@@ -8,12 +8,12 @@ The goal of this project is to investigate relationships between musical feature
 
 The analysis includes:
 
-Data import & cleaning
-Summary statistics & structure checks
-Exploratory visualizations
-Correlation analysis
-Simple & multiple linear regression
-Logistic regression classification
+Data import & cleaning,
+Summary statistics & structure checks,
+Exploratory visualizations,
+Correlation analysis,
+Simple & multiple linear regression,
+Logistic regression classification,
 Model evaluation (accuracy, precision, recall, F1-score)
 
 # Libraries Used
