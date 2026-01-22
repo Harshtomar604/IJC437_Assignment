@@ -66,8 +66,8 @@ Danceability ↔ Tempo
 
 5. Regression Models
 
-*Simple Linear Regression: loudness ~ energy
-*Multiple Linear Regression: loudness ~ energy + danceability + acousticness + valence
+Simple Linear Regression: loudness ~ energy,
+Multiple Linear Regression: loudness ~ energy + danceability + acousticness + valence
 Includes regression visualizations and prediction diagnostics.
 
 6. Classification Model
