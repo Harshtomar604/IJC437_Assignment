@@ -52,9 +52,9 @@ A summary table is created to identify missing values across all variables.
 
 The script includes:
 
-Histogram of tempo
-Histogram of energy
-Boxplot of loudness
+Histogram of tempo,
+Histogram of energy,
+Boxplot of loudness,
 Scatterplot: energy vs loudness
 
 4. Correlation Analysis
