@@ -26,14 +26,14 @@ library(tidyverse)
 
 The dataset ('musicoset_songfeatures_acoustic_features.csv') contains Spotify-like musical features such as:
 
-tempo
-energy
-loudness
-danceability
-acousticness
-valence
-key(categorical)
-mode(categorical)
+tempo,
+energy,
+loudness,
+danceability,
+acousticness,
+valence,
+key(categorical),
+mode(categorical),
 time_signature(categorical)
 
 The script converts relevant columns into factors to support modelling.
