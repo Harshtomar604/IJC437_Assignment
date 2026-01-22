@@ -66,17 +66,16 @@ Danceability ↔ Tempo
 
 5. Regression Models
 
-Simple Linear Regression: loudness ~ energy
-Multiple Linear Regression: loudness ~ energy + danceability + acousticness + valence
+*Simple Linear Regression: loudness ~ energy
+*Multiple Linear Regression: loudness ~ energy + danceability + acousticness + valence
 Includes regression visualizations and prediction diagnostics.
 
 6. Classification Model
 
-A binary variable high_energy is created based on median energy.
-A logistic regression model is trained using:
-
-loudness
-danceability
+*A binary variable high_energy is created based on median energy.
+*A logistic regression model is trained using:
+loudness,
+danceability and
 tempo
 
 # Visualizations
@@ -85,10 +84,9 @@ The script generates several plots using 'ggplot2', enabling intuitive understan
 
 # Results Summary 
 
-Strong correlation observed between energy and loudness,
-Regression models show energy as a significant predictor,
-
-Logistic classification yields reasonable performance with calculated accuracy, precision, recall, and F1
+1-Strong correlation observed between energy and loudness
+2-Regression models show energy as a significant predictor
+3-Logistic classification yields reasonable performance with calculated accuracy, precision, recall, and F1
 
 # How to Run the Code
 
